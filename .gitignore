@@ -1,0 +1,16 @@
+.env
+.env.*
+*.log
+otp_log.txt
+
+uploads/
+
+vendor/
+node_modules/
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+database/seed.sql
