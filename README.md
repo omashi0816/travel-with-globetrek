@@ -229,6 +229,50 @@ http://localhost/GlobeTrek/
 ### Staff Dashboard
 ![Staff Dashboard](screenshot/staff_dashboard.php.png)
 
+### About Page
+![About Page](screenshot/about.png)
+
+### Contact Page
+![Contact Page](screenshot/conatct.png)
+
+### Review Page
+![Review Page](screenshot/review.png)
+
+### Travel Guidelines
+![Travel Guidelines](screenshot/guidelines.php.png)
+
+### My Bookings
+![My Bookings](screenshot/my%20booking.png)
+
+### Query Page
+![Query Page](screenshot/query.php.png)
+
+### Admin Users
+![Admin Users](screenshot/admin_users.php.png)
+
+### Admin Staff
+![Admin Staff](screenshot/admin_staff.php.png)
+
+### Admin Notifications
+![Admin Notifications](screenshot/admin_notification.php.png)
+
+### Admin Search
+![Admin Search](screenshot/admin_search.php.png)
+
+### Staff Bookings
+![Staff Bookings](screenshot/sbookings.php.png)
+
+### Staff Customers
+![Staff Customers](screenshot/scustomers.php.png)
+
+### Staff Packages
+![Staff Packages](screenshot/spackages.php.png)
+
+### Staff Payments
+![Staff Payments](screenshot/spayments.php.png)
+
+### Staff Reports
+![Staff Reports](screenshot/sreports.php.png)
 ## 🎓 Academic / Portfolio Project
 
 **Project:** Travel with Globetrek  
