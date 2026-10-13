@@ -185,15 +185,49 @@ http://localhost/GlobeTrek/
 
 ## 📸 Screenshots
 
-Screenshots can be added here to demonstrate the user interface, including:
+## 📸 Screenshots
 
-- Home page
-- Login page
-- Customer dashboard
-- Admin dashboard
-- Travel packages
-- Booking management
-- Payment pages
+### Home Page
+![Home Page](screenshot/Home.png)
+
+### Login Page
+![Login Page](screenshot/Login.png)
+
+### Registration Page
+![Register Page](screenshot/Register.png)
+
+### Travel Packages
+![Travel Packages](screenshot/packege.png)
+
+### Booking Page
+![Booking Page](screenshot/booking%201.png)
+
+### Customer Profile
+![Customer Profile](screenshot/profile.png)
+
+### Payment Page
+![Payment Page](screenshot/payment.png)
+
+### Payment History
+![Payment History](screenshot/payment%20history.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshot/admin_dashboard.php.png)
+
+### Admin Bookings
+![Admin Bookings](screenshot/admin_bookings.php.png)
+
+### Admin Packages
+![Admin Packages](screenshot/admin_packages.php.png)
+
+### Admin Payments
+![Admin Payments](screenshot/admin_payments.php.png)
+
+### Admin Reports
+![Admin Reports](screenshot/admin_reports.php.png)
+
+### Staff Dashboard
+![Staff Dashboard](screenshot/staff_dashboard.php.png)
 
 ## 🎓 Academic / Portfolio Project
 
